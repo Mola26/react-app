@@ -2,6 +2,8 @@ import React from "react";
 import axios from "axios";
 import Loader from "react-loader-spinner";
 
+import "./Weather.css";
+
 export default function Weather() {
   return (
     <div className="Weather">
@@ -15,7 +17,11 @@ export default function Weather() {
             />
           </div>
           <div className=" col-3">
-            <input type="submit" value="Search" className="btn btn-primary" />
+            <input
+              type="submit"
+              value="Search"
+              className="btn btn-primary w-100"
+            />
           </div>
         </div>
       </form>
