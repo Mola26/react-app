@@ -10,7 +10,11 @@ function App() {
         <footer>
           Created with love by Nokuthaba Siphambili
           {""} and is {""}
-          <a href="https://github.com/Mola26/react-app" target="_blank">
+          <a
+            href="https://github.com/Mola26/react-app"
+            target="_blank"
+            rel="noreferrer"
+          >
             open source on Github.
           </a>
         </footer>
