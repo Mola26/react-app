@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <Weather />
         <footer>
-          Created with love by
+          Created with love by {""}
           <a href="https://beautiful-cobbler-a65852.netlify.app/">
             Nokuthaba Siphambili
           </a>
