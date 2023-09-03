@@ -8,14 +8,10 @@ function App() {
       <div className="container">
         <Weather />
         <footer>
-          This project was coded by {""}
-          <a href="" target="_blank">
-            {" "}
-            Nokuthaba Siphambili
-          </a>
+          Created with love by Nokuthaba Siphambili
           {""} and is {""}
-          <a href="" target="_blank">
-            open source on Github
+          <a href="https://github.com/Mola26/react-app" target="_blank">
+            open source on Github.
           </a>
         </footer>
       </div>
